@@ -12,11 +12,18 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Define success criteria and initial timeline
 - Decide go/no-go for planning
 
+## Key Roles at Initiation
+- **Project Manager**: Drives the initiation process, schedules stakeholder alignment, and owns the one-pager.
+- **Product Manager**: Defines the problem statement, success metrics, and business goals.
+- **Business Analyst**: Facilitates requirements discovery and maps stakeholder needs to business processes.
+- **UX Designer**: Contributes early user research and validates that the problem is framed around real user needs.
+- **Security Lead**: Reviews the initial scope for regulatory requirements and identifies early security risks.
+
 ## Minimum Deliverables
 - Project One-pager (Problem, Goal, Success Metrics)
 - Stakeholder list & communication plan
 - High-level timeline and key milestones
-- Initial risk list
+- Initial risk list (including any security or compliance risks flagged by Security Lead)
 - Resource needs (team roles, rough effort estimate)
 
 ## Project One-pager Template
@@ -31,6 +38,9 @@ Whenever a new project idea or feature proposal is ready to be explored.
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
+- [ ] Business Analyst has documented initial requirements and stakeholder needs
+- [ ] UX Designer has been briefed and initial user research scope agreed
+- [ ] Security Lead has reviewed scope for early security and compliance risks
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton

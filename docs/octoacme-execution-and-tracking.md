@@ -20,13 +20,13 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Unit tests for new logic
 - Integration tests where applicable
 - End-to-end smoke tests for critical flows before release
-- Security scanning in CI
+- Security scanning in CI — owned by **Security Lead** (tooling configured by **DevOps Engineer**)
 - Manual QA for feature acceptance when needed
 
 ## Reporting & Metrics
 - Track velocity and burndown
 - Monitor success metrics identified in the Project One-pager
-- Use dashboards for key signals (errors, latency, usage)
+- Use dashboards for key signals (errors, latency, usage) — **DevOps Engineer** maintains and monitors operational dashboards
 
 ## Blocker Escalation
 - Level 1: Team-level triage in daily standup
